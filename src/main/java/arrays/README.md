@@ -80,5 +80,26 @@ Index tracking • Dual-max logic • In-place shifting (two-pointer)
 - Strengthened understanding of array compaction / stability concepts.
 
 ---
+## 📅 **Day 4 – Arrays (Duplicate Removal & Rotation Operations)**
+
+**Concepts Covered:**  
+Two-pointer technique • In-place array modification • Directional rotation (left/right) • Logical index movement • Efficient loop control
+
+| Q No | Problem | Description | Pattern | Time | Space |
+|:----:|:--------|:-------------|:---------|:------|:--------|
+| Q11 | Remove Duplicates (Return Count) | Remove duplicates from a sorted array and return the count of unique elements | Two-Pointer Technique | O(n) | O(1) |
+| Q12 | Remove Duplicates & Print Array | Print only the unique portion of the array after removing duplicates | Two-Pointer + In-place | O(n) | O(1) |
+| Q13 | Left Rotate by One | Rotate array one step to the left, moving first element to the end | Array Shifting | O(n) | O(1) |
+| Q14 | Right Rotate by One | Rotate array one step to the right, moving last element to the front | Reverse Shift Traversal | O(n) | O(1) |
+
+
+🧠 **Key Learnings:**
+- Practiced **two-pointer pattern** to handle sorted array duplicates efficiently.
+- Learned **rotation logic** in both left and right directions using index manipulation.
+- Strengthened understanding of **in-place array updates** (no extra memory used).
+- Observed how **loop direction changes** affect logic (forward vs backward traversal).
+- Focused on writing **modular, clean, and readable** methods for better maintainability.
+
+---
 
 
